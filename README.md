@@ -9,7 +9,7 @@ I'm a solo iOS & AR developer building augmented-reality games and apps end-to-e
 ### 🚀 What I ship
 
 - **[AR Hide and Seek](https://apps.apple.com/app/id6761748100)** — A multiplayer hide-and-seek game that turns any room into an AR obstacle course using LiDAR + ARKit. Live on the App Store. No accounts. No ads. Fully offline.
-- **AR Shadow Tag** *(in development)* — A real-time AR tag game with light-and-shadow mechanics.
+- **[AR Shadow Tag](https://apps.apple.com/us/app/ar-shadow-tag/id6767472206)** — A survival horror AR game. Your phone is a weapon. The darkness is alive. Aim your beam, destroy what moves, survive the round. Live on the App Store.
 - **[Khebra](https://moakkad.dev/khebra-waitlist)** *(in development)* — A bilingual (Arabic/English) web platform for court & arbitration experts. Tracked document requests, signed minutes of meetings, structured two-stage reporting.
 
 ---
